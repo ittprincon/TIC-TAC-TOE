@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+}
+td {
+  width: 100px;
+  height: 100px;
+}
+table {
+  margin: 50px auto;
+}
+.vert {
+  border-left: 3px dashed black;
+  border-right: 3px dashed black;
+}
+.hori {
+  border-top: 3px dashed black;
+  border-bottom: 3px dashed black;
+}
+html {
+  background-color: #fffdd0;
+}
+
+td:hover {
+  background-color: floralwhite;
+  cursor: pointer;
+}
